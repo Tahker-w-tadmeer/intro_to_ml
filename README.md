@@ -5,9 +5,9 @@ Welcome to the "Introduction to Machine Learning" course! In this course, you wi
 ## Table of Contents
 
 1. [Project 1: KMeans and PCA](https://github.com/Tahker-w-tadmeer/intro_to_ml/tree/master/ass%204-PCA%20and%20Kmeans)
-2. [Project 2: KNN and Linear Regression]([#project-2-knn-and-linear-regression](https://github.com/Tahker-w-tadmeer/intro_to_ml/tree/master/ass1-Knn%20and%20linear%20regression))
-3. [Project 3: Exploratory and Explanatory Data Analysis with Ensemble Methods]([#project-3-exploratory-and-explanatory-data-analysis-with-ensemble-methods](https://github.com/Tahker-w-tadmeer/intro_to_ml/tree/master/ass3-data%20analysis%20and%20ensamble%20methode))
-4. [Project 4: Neural Networks for MNIST Data]([#project-4-neural-networks-for-mnist-data](https://github.com/Tahker-w-tadmeer/intro_to_ml/tree/master/ass%202-Neural%20network%20for%20mnist))
+2. [Project 2: KNN and Linear Regression]([project-2-knn-and-linear-regression](https://github.com/Tahker-w-tadmeer/intro_to_ml/tree/master/ass1-Knn%20and%20linear%20regression))
+3. [Project 3: Exploratory and Explanatory Data Analysis with Ensemble Methods]([project-3-exploratory-and-explanatory-data-analysis-with-ensemble-methods](https://github.com/Tahker-w-tadmeer/intro_to_ml/tree/master/ass3-data%20analysis%20and%20ensamble%20methode))
+4. [Project 4: Neural Networks for MNIST Data]([project-4-neural-networks-for-mnist-data](https://github.com/Tahker-w-tadmeer/intro_to_ml/tree/master/ass%202-Neural%20network%20for%20mnist))
 
 ## Project 1: KMeans and PCA
 - **Objective:** Implement KMeans clustering algorithm and Principal Component Analysis (PCA).
